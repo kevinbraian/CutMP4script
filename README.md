@@ -39,10 +39,6 @@ end_time_tuple = (0, 6, 30)
 
 Con este ejemplo, el script recortará el video desde el principio hasta los 6.3 segundos.
 
-## Autor
-
-Tu nombre aquí
-
 ## Licencia
 
 Este proyecto está bajo la Licencia MIT - vea el archivo [LICENSE.md](LICENSE.md) para detalles
